@@ -1,0 +1,24 @@
+.contact-card {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    width: 300px;
+    padding: 20px;
+    background-color: rgba(40, 44, 52, 0.4);
+    color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+  }
+  
+  .contact-card h2 {
+    margin-top: 0;
+    font-size: 20px;
+  }
+  
+  .contact-card p {
+    margin: 10px 0;
+    font-size: 16px;
+  }
+  .contact-card a{
+    color: white;
+  }
