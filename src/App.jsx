@@ -9,6 +9,12 @@ import ContactCard from './ContactCard';
 
 const cards = [
   {
+    image: './imgs/4.png',
+    name: 'TBC Concept',
+    description: 'This is the copy of TBC Concept web page',
+    link: 'https://tbc-concept-three.vercel.app/ge',
+  },
+  {
     image: './imgs/3.png',
     name: 'Oasis Cabins',
     description: 'This web-app is for managing small cabin hotel business, with many interesting features like authorization, back-end and etc.',
