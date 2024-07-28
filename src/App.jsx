@@ -9,7 +9,7 @@ import ContactCard from './ContactCard';
 
 const cards = [
   {
-    image: './imgs/4.png',
+    image: '../4.png',
     name: 'TBC Concept',
     description: 'This is the copy of TBC Concept web page',
     link: 'https://tbc-concept-three.vercel.app/ge',
