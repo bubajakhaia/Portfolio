@@ -15,7 +15,7 @@ const cards = [
     link: 'https://tbc-concept-three.vercel.app/ge',
   },
   {
-    image: '.5.png',
+    image: './5.png',
     name: 'Prompts AI',
     description: 'Fullstack AI Prompts page with Next js, MongoDB and authorisation functionality',
     link: 'https://cryptoland-psi.vercel.app/',
