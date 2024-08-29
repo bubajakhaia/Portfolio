@@ -15,6 +15,12 @@ const cards = [
     link: 'https://tbc-concept-three.vercel.app/ge',
   },
   {
+    image: '.5.png',
+    name: 'Prompts AI',
+    description: 'Fullstack AI Prompts page with Next js, MongoDB and authorisation functionality',
+    link: 'https://cryptoland-psi.vercel.app/',
+  },
+  {
     image: './imgs/3.png',
     name: 'Oasis Cabins',
     description: 'This web-app is for managing small cabin hotel business, with many interesting features like authorization, back-end and etc.',
@@ -32,6 +38,7 @@ const cards = [
     description: 'Crypto information page,RESTful apis, managing remote state with Redux Toolkit',
     link: 'https://cryptoland-psi.vercel.app/',
   },
+  
 ];
 
 const App = () => {
