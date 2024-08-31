@@ -18,7 +18,7 @@ const cards = [
     image: './5.png',
     name: 'Prompts AI',
     description: 'Fullstack AI Prompts page with Next js, MongoDB and authorisation functionality',
-    link: 'https://cryptoland-psi.vercel.app/',
+    link: 'https://nextjs-prompts-nine.vercel.app/',
   },
   {
     image: './imgs/3.png',
@@ -37,6 +37,12 @@ const cards = [
     name: 'CryptoLand',
     description: 'Crypto information page,RESTful apis, managing remote state with Redux Toolkit',
     link: 'https://cryptoland-psi.vercel.app/',
+  },
+  {
+    image: './6.png',
+    name: 'VR',
+    description: 'Virtual reality product landing page with Reactjs & Tailwind',
+    link: 'https://vr-product-r87s49coe-bubas-projects-c455ccce.vercel.app/',
   },
   
 ];
